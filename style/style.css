@@ -45,12 +45,12 @@ body {
   border-radius: 15px;
 }
 
-.header__container .image img {
+.user-card__image {
   padding-left: 60px;
   padding-top: 50px;
 }
 
-.header__container .image {
+.user-card {
   background: #3685ff;
   width: 280px;
   height: 270px;
@@ -59,7 +59,7 @@ body {
   border-radius: 10px;
 }
 
-.header__container h1 {
+.user-card__title {
   font-family: "Outfit";
   font-style: normal;
   font-weight: 700;
@@ -69,7 +69,7 @@ body {
   justify-content: center;
 }
 
-.header__container p {
+.user-card__coding {
   font-family: "Outfit";
   font-style: normal;
   font-weight: 400;
